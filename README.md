@@ -41,7 +41,7 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/abdulnabii)
+- 💼 [LinkedIn]([https://linkedin.com/in/abdulnabii](https://www.linkedin.com/in/abdul-nabi-95391a3b0))
 - 🐙 [GitHub](https://github.com/abdulnabii)
 
 ---
