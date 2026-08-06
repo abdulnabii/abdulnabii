@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Abdul%20Nabi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AppSec%20%C2%B7%20Data%20%26%20ML&descAlignY=58&descSize=18&descColor=a5b4fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Abdul%20Nabi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Data%20%26amp%3B%20ML%20%C2%B7%20AppSec%20(Learning)&descAlignY=58&descSize=18&descColor=a5b4fc" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdulnabi.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulnabi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Nabi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-nabi-95391a3b0)
@@ -13,13 +13,11 @@
 
 ## 👋 About Me
 
-Security-minded full-stack developer with **1+ years** building product-facing web apps at the intersection of **robust UI engineering** and **application security** — shipping clean, testable interfaces that hold up under real-world access patterns.
+Full-stack developer with **1+ years** building product-facing web apps with Next.js, TypeScript, REST APIs, and Python ML workflows.
 
-I care about details: correct RBAC boundaries, clean error states, zero cross-tenant leakage, and code teammates can extend without second-guessing. **AppSec isn't a bolt-on for me — it's part of how I think** when I design data models and API contracts.
+Alongside core web & data development, I am an **active learner in Application Security (AppSec)** — continuously building awareness around OWASP Top 10, safe authentication, role-based authorization, and secure coding practices.
 
-Alongside web work, I bring a practical data background: Python, Pandas, and applied ML — building pipelines, training and evaluating models on real datasets, and turning outputs into clear, actionable insights.
-
-> 📍 Larkana, Sindh, Pakistan &nbsp;·&nbsp; 🟢 Open to full-time engineering / security roles and focused freelance projects
+> 📍 Karachi, Sindh, Pakistan &nbsp;·&nbsp; 🟢 Open to full-time engineering / security roles and focused freelance projects
 
 ---
 
@@ -27,10 +25,10 @@ Alongside web work, I bring a practical data background: Python, Pandas, and app
 
 <div align="center">
 
-| **Frontend & UI** | **Backend & APIs** | **AppSec** | **Data & ML** | **Delivery** |
+| **Frontend & UI** | **Backend & APIs** | **AppSec (Learning)** | **Data & ML** | **Delivery** |
 |:-:|:-:|:-:|:-:|:-:|
-| React | Node.js | OWASP Top 10 | Python | Git / GitHub |
-| Next.js (App Router) | REST APIs | Auth & RBAC design | Pandas | Vercel |
+| Web Development | Node.js | OWASP Top 10 | Python | Git / GitHub |
+| React | REST APIs | Auth & RBAC design | Pandas | Vercel |
 | TypeScript | PostgreSQL | SQL injection testing | Data analysis | Code review |
 | Tailwind CSS | Supabase | XSS / CSRF awareness | ML model training | Figma handoff |
 | Accessible UI | Prisma | Supabase RLS policies | Data storytelling | Clear docs |
