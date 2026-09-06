@@ -39,7 +39,7 @@
 
 ```yaml
 Name: Abdul Nabi (Abdul Nabi Khaskheli)
-Degree: Bachelor of Science in Information Technology (BSIT, University of Sindh)
+Degree: Bachelor of Science in Computer Science (BSCS, University of Sindh)
 Location: Karachi & Jamshoro, Sindh, Pakistan
 Role: Full-Stack Software Engineer & AI/ML Developer
 Core Stack: Next.js 14/16, React 19, TypeScript, Python ML, Supabase & PostgreSQL (RLS)
