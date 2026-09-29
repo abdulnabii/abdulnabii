@@ -6,7 +6,7 @@
 <br/>
 
 <!-- DYNAMIC TYPING TITLE -->
-<a href="https://www.aiwithab.site">
+<a href="https://www.abdulnabi.org">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack%20Developer%20(Next.js%2014%2F16%20%2B%20TypeScript);AI%20%26%20ML%20Engineer%20(Python%20%2B%20Scikit-Learn);Smart%20Pet%20Recovery%20%26%20QR%20Ecosystem%20Architect;Application%20Security%20%26%20OWASP%20Top%2010%20Practitioner" alt="Typing SVG" />
 </a>
 
@@ -14,19 +14,19 @@
 
 <!-- SLEEK SOCIAL & PORTFOLIO QUICK LINKS -->
 <p align="center">
-  <a href="https://www.aiwithab.site" target="_blank">
+  <a href="https://www.abdulnabi.org" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/abdul-nabi-95391a3b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:abdulnabi@aiwithab.site" target="_blank">
+  <a href="mailto:abdulnabi@abdulnabi.org" target="_blank">
     <img src="https://img.shields.io/badge/Work_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Work Email"/>
   </a>
   <a href="https://wa.me/923093751434" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.aiwithab.site/resume" target="_blank">
+  <a href="https://www.abdulnabi.org/resume" target="_blank">
     <img src="https://img.shields.io/badge/Resume-06B6D4?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
   </a>
 </p>
@@ -45,7 +45,7 @@ Role: Full-Stack Software Engineer & AI/ML Developer
 Core Stack: Next.js 14/16, React 19, TypeScript, Python ML, Supabase & PostgreSQL (RLS)
 Focus Areas: High-Performance Web Apps, Clinical ML Models, AppSec & Distributed Architectures
 Availability: Open to Full-Stack & AI/ML Software Engineering Roles
-Portfolio: https://www.aiwithab.site
+Portfolio: https://www.abdulnabi.org
 ```
 
 > Full-stack software engineer with **2+ years** of hands-on experience building production web applications, scalable REST/WebSocket backends, and clinical ML models. Specialized in **Next.js App Router**, **TypeScript**, **Python ML pipelines**, and **Application Security (AppSec)** — including OWASP Top 10 mitigation, cryptographic token validation, and multi-tenant PostgreSQL Row-Level Security (RLS) isolation.
@@ -94,7 +94,7 @@ Portfolio: https://www.aiwithab.site
       <p><b>Final Year Project (Healthcare AI)</b> — Clinical machine learning web application predicting glucose risk probabilities with an ElasticNet regression model, real-time patient triage charts, risk factor weighting, and report exports.</p>
       <p align="center">
         <a href="https://github.com/abdulnabii/blood-sugar-tracker-fyp"><b>📂 GitHub Repo</b></a> · 
-        <a href="https://www.aiwithab.site/projects/blood-sugar-tracker"><b>🌐 Case Study</b></a>
+        <a href="https://www.abdulnabi.org/projects/blood-sugar-tracker"><b>🌐 Case Study</b></a>
       </p>
     </td>
   </tr>
@@ -108,7 +108,7 @@ Portfolio: https://www.aiwithab.site
       </p>
       <p>Developer security suite featuring an automated OWASP Top 10 API auditor, JWT cryptanalysis inspector, multi-tenant Supabase RLS policy simulator, and 1-click CSP middleware generator.</p>
       <p align="center">
-        <a href="https://www.aiwithab.site/projects/aegis-appsec"><b>🌐 Live AppSec Studio</b></a>
+        <a href="https://www.abdulnabi.org/projects/aegis-appsec"><b>🌐 Live AppSec Studio</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -134,7 +134,7 @@ Portfolio: https://www.aiwithab.site
       </p>
       <p>High-frequency telemetry and multi-tenant analytics dashboard featuring strict Row-Level Security, real-time metrics filtering, and sub-400ms server renders.</p>
       <p align="center">
-        <a href="https://www.aiwithab.site/projects/aurora-dashboard"><b>🌐 Live Demo</b></a>
+        <a href="https://www.abdulnabi.org/projects/aurora-dashboard"><b>🌐 Live Demo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -146,7 +146,7 @@ Portfolio: https://www.aiwithab.site
       </p>
       <p>30 interactive web apps and algorithm labs built in public: AI ATS Resume Optimizer, Diabetes Risk Predictor, Neural Reflex Benchmark, Cloud Topology Studio, and more.</p>
       <p align="center">
-        <a href="https://www.aiwithab.site/mini-projects"><b>🌐 Browse All 30 Apps</b></a> · 
+        <a href="https://www.abdulnabi.org/mini-projects"><b>🌐 Browse All 30 Apps</b></a> · 
         <a href="https://github.com/abdulnabii/mini-projects"><b>📂 Monorepo</b></a>
       </p>
     </td>
@@ -192,9 +192,9 @@ Portfolio: https://www.aiwithab.site
 
 | Channel | Link / Handle |
 | :--- | :--- |
-| 🌐 **Live Portfolio & Labs** | [aiwithab.site](https://www.aiwithab.site) |
+| 🌐 **Live Portfolio & Labs** | [abdulnabi.org](https://www.abdulnabi.org) |
 | 💼 **LinkedIn** | [linkedin.com/in/abdul-nabi-95391a3b0](https://linkedin.com/in/abdul-nabi-95391a3b0) |
-| 📧 **Work Email** | [abdulnabi@aiwithab.site](mailto:abdulnabi@aiwithab.site) / [abdulnabi.khaskhely@gmail.com](mailto:abdulnabi.khaskhely@gmail.com) |
+| 📧 **Work Email** | [abdulnabi@abdulnabi.org](mailto:abdulnabi@abdulnabi.org) / [abdulnabi.khaskhely@gmail.com](mailto:abdulnabi.khaskhely@gmail.com) |
 | 💬 **WhatsApp** | [+92 309 3751434](https://wa.me/923093751434) |
 | 🐙 **GitHub** | [@abdulnabii](https://github.com/abdulnabii) |
 
