@@ -194,7 +194,7 @@ Portfolio: https://www.abdulnabi.org
 | :--- | :--- |
 | 🌐 **Live Portfolio & Labs** | [abdulnabi.org](https://www.abdulnabi.org) |
 | 💼 **LinkedIn** | [linkedin.com/in/abdul-nabi-95391a3b0](https://linkedin.com/in/abdul-nabi-95391a3b0) |
-| 📧 **Work Email** | [abdulnabi@abdulnabi.org](mailto:abdulnabi@abdulnabi.org) / [abdulnabi.khaskhely@gmail.com](mailto:abdulnabi.khaskhely@gmail.com) |
+| 📧 **Work Email** | [abdulnabi@abdulnabi.org](mailto:abdulnabi@abdulnabi.org) / [abdulnabi@abdulnabi.org](mailto:abdulnabi@abdulnabi.org) |
 | 💬 **WhatsApp** | [+92 309 3751434](https://wa.me/923093751434) |
 | 🐙 **GitHub** | [@abdulnabii](https://github.com/abdulnabii) |
 
